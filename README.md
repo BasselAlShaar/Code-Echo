@@ -6,19 +6,19 @@
 <img src="./readme/title2.svg"/>
 
 > Our mission is to provide an innovative Learning Management System (LMS) that enhances the coding learning experience through AI-driven assistance and voice recognition features. By integrating these technologies, we strive to create an engaging, supportive, and adaptive educational platform that caters to diverse learning styles and needs.
->
-> "CodeEcho Academy" aims to revolutionize the way students learn coding by leveraging the power of AI and voice recognition technology. We envision a dynamic learning environment where students can interact with an AI bot for coding hints and write code through voice commands, making coding education more accessible, interactive, and effective.
 
 ### User Stories
+
 - As a student, I want to receive instant coding hints from the AI bot so that I can overcome challenges and improve my coding skills.
 - As a student, I want to write code using voice commands so that I can code more efficiently and comfortably.
 - As an instructor, I want to monitor my students' progress and provide personalized feedback so that I can support their learning journey effectively.
 
 <br><br>
+
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  CodeEcho Academy is built using the following technologies:
+### CodeEcho Academy is built using the following technologies:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
 - For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
@@ -27,18 +27,18 @@
 - The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
 
 <br><br>
+
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
-
 
 > We designed CodeEcho Academy using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
 
-
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
-| ---| ---| ---|
+
+| Home screen                                    | Menu Screen                                  | Order Screen                                 |
+| ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | ![Landing](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) |
 
 <br><br>
@@ -46,39 +46,37 @@
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
-###  Architecting Data Excellence: Innovative Database Design Strategies:
+### Architecting Data Excellence: Innovative Database Design Strategies:
 
 - Insert ER Diagram here
 
-
 <br><br>
-
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
+
+| Login screen                              | Register screen                         | Landing screen                          | Loading screen                          |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
+| Home screen                               | Menu Screen                             | Order Screen                            | Checkout Screen                         |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
+
+| Login screen                                   | Register screen                              | Landing screen                               |
+| ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | ![Landing](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
+| Home screen                                    | Menu Screen                                  | Order Screen                                 |
 | ![Landing](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) | ![fsdaf](https://placehold.co/1440x1024.png) |
 
 <br><br>
 
-
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
 - This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
 
@@ -87,7 +85,7 @@
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
@@ -96,12 +94,11 @@
 <!-- Unit Testing -->
 <img src="./readme/title9.svg"/>
 
-###  Precision in Development: Harnessing the Power of Unit Testing:
+### Precision in Development: Harnessing the Power of Unit Testing:
 
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
 
 <br><br>
-
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
@@ -111,7 +108,8 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+- npm
   ```sh
   npm install npm@latest -g
   ```
