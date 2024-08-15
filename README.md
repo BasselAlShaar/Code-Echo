@@ -9,9 +9,29 @@
 
 ### User Stories
 
-- As a student, I want to receive instant coding hints from the AI bot so that I can overcome challenges and improve my coding skills.
-- As a student, I want to write code using voice commands so that I can code more efficiently and comfortably.
-- As an instructor, I want to monitor my students' progress and provide personalized feedback so that I can support their learning journey effectively.
+#### Student
+
+- As a student, I want to browse and enroll in coding courses, so I can start learning at my own pace.
+
+- As a student, I want to receive AI-driven hints when I’m stuck on a coding problem, so I can overcome challenges and continue learning without frustration.
+
+- As a student, I want to use voice commands to interact with coding exercises.
+
+#### Instructor
+
+- As an instructor, I want to track the progress of my students, so I can provide timely feedback and additional support where needed.
+
+- As an instructor, I want to create and manage coding courses, so I can provide quality educational content to students.
+
+- As an instructor, I want to receive AI-generated insights on student performance, so I can identify common challenges and adjust my teaching strategy accordingly.
+
+#### Admin
+
+- As an administrator, I want to manage user roles and permissions, so I can ensure that students, instructors, and other users have the correct access levels.
+
+- As an administrator, I want to monitor the system’s performance and ensure that all features are functioning correctly, so I can maintain a smooth user experience.
+
+- As an administrator, I want to configure and fine-tune the AI and voice recognition features, so they work effectively for all users.
 
 <br><br>
 
